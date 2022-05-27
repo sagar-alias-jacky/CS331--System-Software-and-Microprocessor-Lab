@@ -5,7 +5,7 @@ void main()
 {
     printf("Sagar Paul\t41\n\n");
     // Stores starting address of program
-    int start_addr;
+    int start_addr; 
     // Location counter
     int locctr;
     // Stores the length of the instruction
